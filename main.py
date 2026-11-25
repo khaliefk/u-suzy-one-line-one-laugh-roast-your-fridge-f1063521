@@ -1,6 +1,6 @@
 import os
 
-LINE = "My fridge is the only roommate who never pays rent, hums show tunes at 3 a.m., and still lets my milk expire out of spite."
+LINE = "My fridge is the only roommate who pays no rent, hums show tunes at 3 a.m., and still lets my milk expire out of spite."
 
 def main():
     text = " ".join(LINE.split())
